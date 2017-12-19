@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1475473397 source:c:\users\bball\desktop\cs 2336\project_2 - whovian numbers\complexnumber.cpp
+	"complexNumber.h"
+
+1475470569 c:\users\bball\desktop\cs 2336\project_2 - whovian numbers\complexnumber.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<string>
+	<stdlib.h>
+
+1475975366 source:c:\users\bball\desktop\cs 2336\project_2 - whovian numbers\main.cpp
+	<fstream>
+	<string>
+	"complexNumber.h"
+
+1475473397 source:c:\users\bball\desktop\cs 2336\project 2 - whovian numbers\complexnumber.cpp
+	"complexNumber.h"
+
+1475470569 c:\users\bball\desktop\cs 2336\project 2 - whovian numbers\complexnumber.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<string>
+	<stdlib.h>
+
+1475975366 source:c:\users\bball\desktop\cs 2336\project 2 - whovian numbers\main.cpp
+	<fstream>
+	<string>
+	"complexNumber.h"
+
